@@ -1,0 +1,15 @@
+---
+id: analytics
+russianTitle: Анализ продуктовой аналитики
+title: Analytics / Clickstream
+type: quantitative
+stage: [postlaunch, debug]
+goal: [observe, debug]
+minDays: 1
+maxDays: 5
+access: [internal]
+budget: [zero, low]
+shortDescription: Изучение цифровых следов пользователей: пути, клики, отказы, воронки конверсии
+complexity: low
+echelon: 1
+---
